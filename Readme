@@ -1,9 +1,17 @@
-The Global Superstore Project utilizes Power BI to analyze sales data from Global Superstore between 2011 and 2014. The interactive dashboard spans five pages: Sales, Orders, Customers, Products, and Decomposition. Stakeholders can explore performance metrics across various dimensions.
+GlobalSuperstoreProject
+
+The Global Superstore Project utilizes Power BI to analyze sales data from Global Superstore between 2011 and 2014.
+
+The interactive dashboard spans five pages: Sales, Orders, Customers, Products, and Decomposition. Stakeholders can explore performance metrics across various dimensions.
 
 The project involves the following steps:
 
 Importing Data: The dataset is imported from an Excel file into Power BI.
+
 Data Cleaning: Basic cleaning tasks, such as removing duplicates, adjusting data types, and handling null values, are performed using Power Query Editor.
+
 Establishing Relationships: Relationships between different tables in the dataset are set up to facilitate meaningful analysis.
+
 Creating Measures: Calculated measures are defined to perform calculations and aggregations on the data.
-Customizing the Dashboard: The dashboard is customized with visuals and details, focusing on different aspects of sales analysis."
+
+Customizing the Dashboard: The dashboard is customized with visuals and details, focusing on different aspects of sales analysis.
