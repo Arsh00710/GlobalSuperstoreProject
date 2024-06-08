@@ -1,6 +1,5 @@
-# GlobalSuperstoreProject
-
-The Global Superstore Project utilizes Power BI to analyze sales data from Global Superstore between 2011 and 2014.
+GlobalSuperstoreProject
+The Global Superstore Project utilizes Power BI to analyse sales data from Global Superstore between 2011 and 2014.
 
 The interactive dashboard spans five pages: Sales, Orders, Customers, Products, and Decomposition. Stakeholders can explore performance metrics across various dimensions.
 
